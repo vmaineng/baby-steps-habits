@@ -1,4 +1,21 @@
 body {
     background: yellow;
+    width: 100%;
+    height: 100%;
+    margin: 0;
     text-align: center;
+}
+
+img {
+    max-width: auto;
+    max-height: auto;
+}
+
+img {}
+
+div {
+    float: left;
+    text-align: center;
+    width: 25%;
+    background-color: orange;
 }
