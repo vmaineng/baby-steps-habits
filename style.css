@@ -15,12 +15,23 @@ img {}
 
 div {
     float: left;
-    text-align: center;
-    width: 25%;
+    text-align: left;
+    width: auto;
     background-color: orange;
 }
 
 ul.a {
     list-style-type: circle;
     list-style-position: outside;
+}
+
+ul li {
+    background: #ff9999;
+    padding: 20px;
+}
+
+input {
+    float: right;
+    margin: 5px 0px;
+    width: 200px;
 }
